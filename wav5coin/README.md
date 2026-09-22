@@ -1,6 +1,5 @@
 <div align="center">
-  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%9+Wav5Coin+Cryptocurrency+Platform;Internet+Computer+(ICP)+%26+Motoko;Decentralized+Token+Canisters" alt="Typing SVG" /></p>
-  
+  <h1>🪙 Wav5Coin Token Application</h1>
   <p><b>Internet Computer (ICP) Blockchain paina Motoko canisters upayoginchi build chesina Decentralized Cryptocurrency & Token Management System.</b></p>
   
   <p>
