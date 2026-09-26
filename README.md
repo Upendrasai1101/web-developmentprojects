@@ -61,7 +61,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+---
 
 <p align="center">
-  <b>Developed with ❤️ by Upendra Sai Chaturvedula</b>
+  <b>Built & Maintained by Upendra Sai Chaturvedula</b>
 </p>
+
