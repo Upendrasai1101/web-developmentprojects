@@ -1,40 +1,67 @@
-🚀 Full-Stack Web Development & Web3 Portfolio
-Welcome to my comprehensive project showcase! This repository features a collection of 15+ deployments ranging from core JavaScript logic to advanced decentralized applications (dApps) on the Internet Computer (ICP).
+# 🚀 Full-Stack Web Development & Web3 Portfolio
 
-🌟 Featured Web3 & Blockchain Projects (Latest Versions)
-PeakNFT5: My most advanced NFT Marketplace. Supports secure minting, digital collection management, and decentralized asset discovery.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Web3+Developer;15%2B+Production-Ready+Deployments;React+%7C+Node.js+%7C+Motoko+%7C+ICP;Built+by+Upendra+Sai+Chaturvedula" alt="Typing SVG" />
+</p>
 
-Wav5Coin: A high-performance token platform for decentralized asset transfers and balance management using ICP canisters.
+<p align="center">
+  <a href="https://upendrasai1101.github.io/web-development-projects/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Explore_Showcase-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Upendrasai1101">
+    <img src="https://img.shields.io/badge/GitHub-Upendrasai1101-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-dChat React: A real-time messaging dApp bridging a modern React.js frontend with secure Motoko backend canisters.
+---
 
-DBank Project: A decentralized banking smart contract implementing core financial logic on the blockchain.
+## 🌟 Featured Web3 & Decentralized Applications (dApps)
 
-🌐 Full-Stack & React Applications
-Advanced React Blog: Professional blogging platform with React Context API and protected routing.
+| Project | Core Tech Stack | Features & Architecture |
+| :--- | :--- | :--- |
+| **PeakNFT5** | Motoko, ICP, React.js | Advanced NFT Marketplace with secure minting, digital collection management, and decentralized asset discovery. |
+| **Wav5Coin** | Motoko, ICP Canisters, DFX | High-performance custom token platform for decentralized asset transfers and real-time balance tracking. |
+| **dChat React** | React.js, Motoko, ICP | Real-time messaging dApp bridging a modern React frontend with secure Motoko backend canisters. |
+| **DBank Project** | Motoko, ICP Smart Contracts | Decentralized banking smart contract implementing core financial logic on the blockchain. |
 
-Keeper App: A digital note-taking application inspired by Google Keep, built with React and Material UI.
+---
 
-Secrets Authentication: Secure web portal implementing OAuth 2.0 and Passport.js for user security.
+## 🌐 Full-Stack & React Applications
 
-🛠️ Specialized Utility & Logic Projects
-Simon Game Challenge: Interactive memory game showcasing advanced JavaScript/jQuery logic.
+| Project | Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| **Advanced React Blog** | React.js, Node.js, Express, MongoDB | Professional blogging platform with React Context API and protected routing. |
+| **Keeper App** | React.js, Material UI, JavaScript | Digital note-taking application inspired by Google Keep with real-time UI states. |
+| **Secrets Authentication** | Node.js, Express, OAuth 2.0, Passport.js | Secure web portal implementing OAuth 2.0 authentication protocols for user security. |
 
-Blog API Project: A RESTful API backend for managing structured blog content.
+---
 
-Cocktail Finder: API-driven search application for discovering cocktail recipes.
+## 🛠️ Specialized Utilities & Micro-Projects
 
-QR Generator & Band Generator: Practical Node.js utility applications.
+* 🎮 **Simon Game Challenge:** Interactive memory game showcasing advanced JavaScript/jQuery logic.
+* ⚡ **Blog API Project:** RESTful API backend for managing structured blog content.
+* 🍸 **Cocktail Finder:** API-driven search application for discovering cocktail recipes.
+* 📦 **QR & Band Generator:** Node.js utility applications for dynamic image & text generation.
 
-Lisper Project & Flag Project: Educational frontend logic and CSS styling challenges.
+---
 
-⚙️ Technical Skills
-Web3: Motoko, ICP, DFX SDK, Smart Contracts
+## ⚡ Tech Stack Overview
 
-Frontend: React.js, JavaScript (ES6+), jQuery, Material UI, HTML5/CSS3
+### Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-Backend: Node.js, Express.js
+### Web3 & Backend
+![Motoko](https://img.shields.io/badge/Motoko-(ICP)-292929?style=for-the-badge&logo=internetcomputer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Database: PostgreSQL, MySQL
+---
 
-Developed by Upendra Sai Chaturvedula.
+<p align="center">
+  <b>Developed with ❤️ by Upendra Sai Chaturvedula</b>
+</p>
